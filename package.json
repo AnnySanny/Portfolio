@@ -20,6 +20,7 @@
     "react-photo-gallery": "^8.0.0",
     "simple-react-lightbox": "^3.6.9-0",
     "styled-components": "^5.3.0",
-    "styled-normalize": "^8.0.7"
+    "styled-normalize": "^8.0.7",
+    "yarn": "^1.22.18"
   }
 }
